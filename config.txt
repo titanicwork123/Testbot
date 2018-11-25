@@ -1,6 +1,6 @@
 token=NTA0NjgyMDA3NDAyNjQzNDU2.DtmawA.6RXRuaZMpayJW2_6K3MKwmDZNRk
 owner=500450331474395156
-prefix=A
-game=Type Ahelp
+prefix=Á
+game=Type Áhelp
 stayinchannel=true
 songinstatus=true
